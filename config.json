@@ -1,0 +1,10 @@
+{
+    "alpaca": {
+        "key": "abcSECRETkey",
+        "secret": "abcSECRETsecret",
+        "url": "https://paper-api.alpaca.markets"
+    },
+    "assets": {
+        "symbols" : ["SPY", "TQQQ", "SPXL", "UVXY", "SQQQ", "BSV", "TECL"]
+    }
+}
